@@ -1,0 +1,19 @@
+{
+  "catalogVersion": 1,
+  "packs": [
+    {
+      "id": "ppsc_online_sample",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/CresesntQuiz/crescent-quiz-data/main/online_sample_ppsc.csv",
+      "topics": [
+        {
+          "section": "All Job Tests",
+          "category": "PPSC Online",
+          "name": "Pakistan GK",
+          "description": "Online synced PPSC General Knowledge MCQs",
+          "questionCount": 3
+        }
+      ]
+    }
+  ]
+}
